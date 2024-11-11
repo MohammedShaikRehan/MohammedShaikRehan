@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Shaik Rehan (you can adress me as Rehan)
+- 👋 Hi, I’m Mohammed Shaik Rehan (you can address me as Rehan)
 - 👀 I’m interested in Coding,Buisness,Chess,Football
 - 🌱 I’m currently learning Python,Java and Python libraries
 - 💞️ I’m looking to collaborate on any projects I can learn/gain experience from! I'm open to help anytime!
